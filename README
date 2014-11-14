@@ -1,0 +1,10 @@
+# Repository for all WebSites 
+
+# Each website to be stored under a branch that is the same as the domain name
+
+# ie: git branch hubstar.co
+#     git checkout hubstar.co
+
+# A short cut for the above command is...
+#     git checkout -b hubstar.co
+#
