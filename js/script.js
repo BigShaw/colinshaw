@@ -34,7 +34,7 @@ setTimeout(function() {
   columnWidth: 5,
   itemSelector: '.item'
 });
-}, 500);
+}, 1000);
 
 
 
