@@ -13,10 +13,6 @@
 
 
 
-
-
-
-
 $(document).ready(function(){
 
 
